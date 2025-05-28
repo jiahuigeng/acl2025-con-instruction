@@ -1,4 +1,4 @@
-"""Entry point for ukp_project_template."""
+"""Entry point for acl2025_con_instruction."""
 
 from .cli import main  # pragma: no cover
 

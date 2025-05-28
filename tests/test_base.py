@@ -1,6 +1,6 @@
 # Tests are defined here
-from ukp_project_template import BaseClass
-from ukp_project_template.subpackage import SubPackageClass
+from acl2025_con_instruction import BaseClass
+from acl2025_con_instruction.subpackage import SubPackageClass
 
 def test_template():
     assert True
